@@ -1,1 +1,1 @@
-# SERB_Apple_leafs_disease_detection-model
+# SERB_Apple_leaves_disease_detection-model
